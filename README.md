@@ -5,7 +5,7 @@ Imageify is a tool designed to convert images into different formats and types t
 Select an editing operation :
 ![2](https://github.com/rounakkumar30/Imageify/assets/129154278/3fe87fbb-07a6-4763-adf3-24ae655a2e3e)
 
-Click on here link :
+Click on here :
 
 ![3](https://github.com/rounakkumar30/Imageify/assets/129154278/1ca57af6-93a2-4d49-890d-6cfc9ea339c6)
 
